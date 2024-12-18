@@ -1,0 +1,57 @@
+name: lan.haag
+description: open architecture
+version: 0.0.1
+author: skfmgz4r.l6yu4l43@bhtzw9kx.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: lanhaag
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-18 20:24:11'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-18 20:24:11'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-18T20:24:11.268304Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '378796203'
+  createdAt: '2024-12-18T20:24:11.268304Z'
+  type: plibMaven
+projectDependencies:
+  '91':
+    projectUID: 91
+    projectName: lashandra.yost
+    repositoryPath: gitUri=http://gitserver:3000/dev_TZ8qpS3P_team_147/dev_TZ8qpS3P_project_91.git&subPath=
+    version: lashandra.yost/2.7.211
+    isDefault: false
+    author: null
+    createdAt: '2024-12-18 20:24:10'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
